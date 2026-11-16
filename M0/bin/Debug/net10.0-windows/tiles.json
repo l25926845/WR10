@@ -1,0 +1,14 @@
+[
+  { "Name": "记事本", "Target": "C:\\Windows\\System32\\notepad.exe", "Color": "#FF2B579A", "Size": "4x2" },
+  { "Name": "计算器", "Target": "shell:AppsFolder\\Microsoft.WindowsCalculator_8wekyb3d8bbwe!App", "Color": "#FF1F6F8B", "Size": "2x2" },
+  { "Name": "设置", "Target": "shell:AppsFolder\\windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel", "Color": "#FF3A3A3A", "Size": "2x2" },
+  { "Name": "文件资源管理器", "Target": "C:\\Windows\\explorer.exe", "Color": "#FF8A6D1F", "Size": "4x2" },
+  { "Name": "画图", "Target": "C:\\Windows\\System32\\mspaint.exe", "Color": "#FF6B3FA0", "Size": "2x2" },
+  { "Name": "命令提示符", "Target": "C:\\Windows\\System32\\cmd.exe", "Color": "#FF1F1F1F", "Size": "2x2" },
+  { "Name": "PowerShell", "Target": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "Color": "#FF012456", "Size": "2x2" },
+  { "Name": "任务管理器", "Target": "C:\\Windows\\System32\\Taskmgr.exe", "Color": "#FF2E5E4E", "Size": "2x2" },
+  { "Name": "截图工具", "Target": "shell:AppsFolder\\Microsoft.ScreenSketch_8wekyb3d8bbwe!App", "Color": "#FFB03A48", "Size": "2x2" },
+  { "Name": "照片", "Target": "shell:AppsFolder\\Microsoft.Windows.Photos_8wekyb3d8bbwe!App", "Color": "#FF2F5D8A", "Size": "4x2" },
+  { "Name": "相机", "Target": "shell:AppsFolder\\Microsoft.WindowsCamera_8wekyb3d8bbwe!App", "Color": "#FF4A4A4A", "Size": "2x2" },
+  { "Name": "时钟", "Target": "shell:AppsFolder\\Microsoft.WindowsAlarms_8wekyb3d8bbwe!App", "Color": "#FF5A3E7A", "Size": "2x2" }
+]

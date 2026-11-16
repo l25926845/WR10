@@ -1,0 +1,3 @@
+c:\Users\Leo\Documents\trae_projects\WR10\M0\bin\Release\publish\win-x64\FullScreenStart.pdb
+c:\Users\Leo\Documents\trae_projects\WR10\M0\bin\Release\publish\win-x64\tiles.json
+c:\Users\Leo\Documents\trae_projects\WR10\M0\bin\Release\publish\win-x64\FullScreenStart.exe
