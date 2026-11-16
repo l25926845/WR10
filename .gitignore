@@ -1,0 +1,12 @@
+# 构建产物
+[Bb]in/
+[Oo]bj/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+# 运行截图（本地诊断用，不入库）
+.screenshots/
